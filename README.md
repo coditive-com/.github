@@ -1,4 +1,4 @@
-[![World Class Web Developers](https://coditive.com/files/github-bg.jpg)](https://github.com/coditive-com/firestarter-theme)
+[![World Class Web Developers](https://coditive.com/files/github-bg.jpg)]
 
 **Coditive** is a web development team located in Poland, **offering both direct client services and expert white-label development partnerships.**. We are experts in building sophisticated web solutions that deliver real value for our clients. We partner with SaaS companies, startups, and agencies to create innovative, efficient, and scalable digital experiences.
 

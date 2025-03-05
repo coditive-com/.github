@@ -1,6 +1,6 @@
-[![World Class Web Developers](https://coditive.com/files/github-bg.jpg)]
+![World Class Web Developers](https://coditive.com/files/github-bg.jpg)
 
-**Coditive** is a web development team located in Poland, **offering both direct client services and expert white-label development partnerships.**. We are experts in building sophisticated web solutions that deliver real value for our clients. We partner with SaaS companies, startups, and agencies to create innovative, efficient, and scalable digital experiences.
+**Coditive** is a web development team located in Poland, **offering both direct client services and expert white-label development partnerships**. We are experts in building sophisticated web solutions that deliver real value for our clients. We partner with SaaS companies, startups, and agencies to create innovative, efficient, and scalable digital experiences.
 
 ## 🚀 Our Technology Focus
 
@@ -22,18 +22,16 @@ For complex and scalable web projects, we leverage Nuxt.js as official Nuxt part
 
 Discover more about Coditive through our online channels:
 
-- <a href="https://coditive.com" target="_blank">Website</a>
-- <a href="https://pl.linkedin.com/company/coditivecom" target="_blank">LinkedIn</a>
-- <a href="https://www.instagram.com/coditive_/" target="_blank">Instagram</a>
-- <a href="https://x.com/coditive" target="_blank">X (Twitter)</a>
+- [Website](https://coditive.com)
+- [LinkedIn](https://pl.linkedin.com/company/coditivecom)
+- [Instagram](https://www.instagram.com/coditive_/)
+- [X (Twitter)](https://x.com/coditive)
 
 
 ## 🔥 Firestarter - WordPress Starter Theme
 
-Explore **<a href="https://github.com/coditive-com/firestarter-theme" target="_blank">Firestarter</a>
-**, our WordPress starter theme built using Sage 10. Firestarter accelerates development workflows and ensures best practices for modern WordPress development.
+Explore **[Firestarter](https://github.com/coditive-com/firestarter-theme)**, our WordPress starter theme built using Sage 10. Firestarter accelerates development workflows and ensures best practices for modern WordPress development.
 
 ## 🤝 Let's talk
 
-If you are seeking a dependable technology partner for your upcoming web project, we encourage you to get in touch. Please use our <a href="https://coditive.com/contact/" target="_blank">contact form</a>
- to share your project details.
+If you are seeking a dependable technology partner for your upcoming web project, we encourage you to get in touch. Please use our [contact form](https://coditive.com/contact/) to share your project details.
